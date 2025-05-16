@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "cocoon"]
+	path = cocoon
+	url = https://github.com/jeffreyrstevens/cocoon
 [submodule "flashr"]
 	path = flashr
 	url = https://github.com/jeffreyrstevens/flashr
+[submodule "ncaavolleyballr"]
+	path = ncaavolleyballr
+	url = https://github.com/jeffreyrstevens/ncaavolleyballr
