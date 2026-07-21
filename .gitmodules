@@ -11,3 +11,6 @@
 [submodule "ncaavolleyballr"]
 	path = ncaavolleyballr
 	url = https://github.com/jeffreyrstevens/ncaavolleyballr
+[submodule "provolleyballr"]
+	path = provolleyballr
+	url = https://github.com/jeffreyrstevens/provolleyballr
